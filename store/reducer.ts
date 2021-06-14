@@ -2,7 +2,7 @@ import {AnyAction} from "redux";
 import {CounterState} from "../src/types/types";
 import * as actionTypes from "./actionTypes"
 const reducer=(
-    state:CounterState,
+    state:CounterState={counter:0},
     action:AnyAction
 ):CounterState=>{
     switch(action.type){

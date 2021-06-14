@@ -9291,7 +9291,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.1.tgz"
   "version" "17.0.1"
 
-"react-redux@^7.2.1":
+"react-redux@^7.2.1", "react-redux@^7.2.4":
   "integrity" "sha1-HrtHQDK3LYBt4uBRnNB3YeIi4iU="
   "resolved" "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/react-redux/-/react-redux-7.2.4.tgz"
   "version" "7.2.4"

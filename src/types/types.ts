@@ -5,3 +5,9 @@ export interface ButtonProps{
 export interface CounterState{
     counter:number
 }
+
+export type DispatchType=()=>CounterState
+
+export type CounterAction={
+    type:string
+}
