@@ -6,3 +6,5 @@ export const Button=(props:ButtonProps)=>{
         {props.children}
     </button>
 }
+
+const mapStateToProps(
